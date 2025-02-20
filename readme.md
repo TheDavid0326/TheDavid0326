@@ -13,7 +13,7 @@
 
 - **Nombre**: [David Castro Vidal]
 - **Correo Electrónico**: [davidcastro0326@gmail.com]
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/david-castro-vidal-305307b8)
+- **LinkedIn**: [www.linkedin.com/in/david-castro-vidal-305307b8](https://www.linkedin.com/in/david-castro-vidal-305307b8)
 
 ### Habilidades Adicionales
 
